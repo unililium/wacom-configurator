@@ -18,23 +18,23 @@ bottom_left = 1
 bottom_right = 8
 
 stylus = [
-    "Wacom Intuos PT S Pen stylus",
-    "Wacom Intuos PT S (WL) Pen stylus"
+    "Wacom Intuos Pro S Pen stylus",
+    "Wacom Intuos Pro S (WL) Pen stylus"
 ]
 
 eraser = [
-    "Wacom Intuos PT S Pen eraser",
-    "Wacom Intuos PT S Pen stylus"
+    "Wacom Intuos Pro S Pen eraser",
+    "Wacom Intuos Pro S Pen stylus"
 ]
 
 touch = [
-    "Wacom Intuos PT S Finger touch",
-    "Wacom Intuos PT S (WL) Finger touch"
+    "Wacom Intuos Pro S Finger touch",
+    "Wacom Intuos Pro S (WL) Finger touch"
 ]
 
 pad = [
-    "Wacom Intuos PT S Pad pad",
-    "Wacom Intuos PT S (WL) Pad pad"
+    "Wacom Intuos Pro S Pad pad",
+    "Wacom Intuos Pro S (WL) Pad pad"
 ]
 
 all_inputs = stylus + eraser + touch + pad
